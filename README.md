@@ -2,6 +2,7 @@
 <p>데이터 사이언스 포트폴리오</p>
 <p><br><br><br><br><br><br><br></p>
 <h2 id="팀-프로젝트-team-project">팀 프로젝트 Team Project</h2>
+<br>
 <h3 id="zillow-prize-zillow’s-home-value-prediction"><a href="https://www.kaggle.com/c/zillow-prize-1">Zillow Prize: Zillow’s Home Value Prediction</a></h3>
 <blockquote>
 <p>(2018. 06 – 2018.07, 패스트 캠퍼스 / 데이터사이언스 스쿨)<br>
@@ -12,6 +13,7 @@ github llink : <a href="https://goo.gl/KSaULC">https://goo.gl/KSaULC</a></p>
 <li>StatsModel로 설계할 선형 회귀모형의 성능을 향상시켜줄 변수를 탐색.</li>
 </ul>
 </blockquote>
+<p><br><br><br></p>
 <h3 id="빅콘테스트-analysis-분야-챔피언리그-게임-유저-이탈-예측-모형"><a href="http://www.bigcontest.or.kr/points/content.php#ct04">2018 빅콘테스트 Analysis 분야 챔피언리그: 게임 유저 이탈 예측 모형</a></h3>
 <blockquote>
 <p>(2018.07 - 2018.09)<br>
